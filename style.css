@@ -58,7 +58,7 @@ b{
 	text-align: center;
 }
 .banner {
-  background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.4)), url('images/background.jpg');
+  background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.4)), url('background.jpg');
   background-size: cover;
   background-position: top;
   padding: 125px 0;
@@ -162,7 +162,7 @@ b{
   margin-bottom: 50px;
 }
 .banner_menu {
-  background-image: url('images/menu.png');
+  background-image: url('menu.png');
   background-size: 900px;
   background-position: top;
   margin-right: 100px;
